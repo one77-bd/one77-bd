@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @one77-bd
-- 👀 I’m interested in Cyber Security And Communications Area
-- 🌱 I’m currently learning DevSecops 
+- 👀 I’m interested in AWS DevSecops,Cyber Security, ICS/OT And Communications Area
+- 🌱 I’m currently learning DevSecops,Golang
 - 💞️ I’m looking to collaborate on Any Project on Cyber Security,Advanced Cloud Security 
 - 📫 How to reach me mail:nazmul77mn@gmail.com,whattsapp+Telegram+Signal : +8801759790490,
 
